@@ -2,7 +2,8 @@
 
 fastapi + react 기본적인 폴더 구조 
 
-fastapi 
+# fastapi 
+```
   app:.
   ├─apis
   │  └─api.py
@@ -22,7 +23,7 @@ fastapi
   ├─tests
   │  └─test.py  
   └─main.py
-  
+  ```
   api     :   mvc패턴의 컨트롤러 (db의 데이터를 받아 가공한다)
   core    :   환경설정 정보 제공 .env파일 
   curd    :   orm 형식의 db쿼리문 저장 폴더
