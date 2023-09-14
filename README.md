@@ -19,7 +19,7 @@ fastapi + react 기본적인 폴더 구조
   │  └─connection.py
   │  └─session.py
   ├─routes
-  │  └─router.py
+  │  └─router.py****
   ├─tests
   │  └─test.py  
   └─main.py
@@ -31,5 +31,6 @@ fastapi + react 기본적인 폴더 구조
   routes  :   url 로 api 나눈다.
   tests   :   test파일
   main.py :   fastapi 실행 및 메인
-  ```
+  
   from , import 부분을 잘 확인하자.
+```
