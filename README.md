@@ -14,8 +14,6 @@ fastapi + react 기본적인 폴더 구조
   ├─db
   │  ├─models
   │  │  └─model.py
-  │  ├─schemas
-  │  │  └─schema.py  
   │  └─connection.py
   │  └─session.py
   ├─schemas
